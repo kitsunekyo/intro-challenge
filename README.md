@@ -1,7 +1,7 @@
 ## Intro Challenge
 
 We would like to challenge you, to see how quickly you can adapt to potentially new technologies, or what you would focus on, should the core requirements be no problem for you.
-try how far you get in 1-3 hours. if you get stuck on some framework details, thats okay. write out how you would solve the rest of the requirements and what you think is important in the implementation.
+Try how far you can get in the expected timeframe. If you get stuck on some details, thats okay. Write out how you would solve the rest of the requirements and what you think is important in the implementation.
 
 ### Requirements
 - host your solution on a git provider of your choice and include a meaningful readme on how to start or test your project
