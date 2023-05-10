@@ -11,3 +11,10 @@ try how far you get in 1-3 hours. if you get stuck on some framework details, th
 ### (optional) bonus points
 - style the client application with tailwindcss
 - use typescript for the express api
+
+
+### resources
+- https://react.dev/
+- https://vitejs.dev/
+- https://expressjs.com/
+- https://tailwindcss.com/
