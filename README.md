@@ -1,6 +1,5 @@
-> we would like to challenge you, to see how quickly you can adapt potentially new technologies, or much you can polish in the given timeframe, if the core requirements are no problem for you.
-
-fork this repository, or create a new one.
+we would like to challenge you, to see how quickly you can adapt to potentially new technologies, or what you would focus on, should the core requirements be no problem for you.
+try how far you get in 1-3 hours. if you get stuck on some framework details, thats okay. write out how you would solve the rest of the requirements and what you think is important in the implementation.
 
 ### requirements
 - create a client application with typescript, react and vite (feel free to use a vite template)
