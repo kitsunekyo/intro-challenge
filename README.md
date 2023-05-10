@@ -14,7 +14,7 @@ try how far you get in 1-3 hours. if you get stuck on some framework details, th
 ### Bonus points (optional)
 - style the client application with tailwindcss
 - use typescript for the express api
-
+- unit test your number-to-string conversion logic to make sure it works as intended
 
 ### Resources
 - https://react.dev/
