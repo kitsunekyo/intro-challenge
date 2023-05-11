@@ -4,7 +4,7 @@ We would like to challenge you, to see how quickly you can adapt to potentially 
 Try how far you can get in the expected timeframe. If you get stuck on some details, thats okay. Write out how you would solve the rest of the requirements and what you think is important in the implementation.
 
 ### Requirements
-- host your solution on a git provider of your choice and include a meaningful readme on how to start or test your project
+- store your source code on a git provider of your choice and include a meaningful readme on how to start or test your project (fork this repository, or create a new one on github)
 - create a client application with typescript, react and vite (feel free to use a vite template)
 - create a nodejs express api (feel free to use express generator) with a single endpoint `/character/:code` that takes a "UTF-16 char code" as integer number and returns the corresponding character as string. eg: `GET localhost:8080/character/42` -> "*"
 - the client app should show a text input field that allows users to input a number, and a button. clicking the button sends the number from the input field to the express api endpoint. the result of the http call should be shown below the input field and button.
